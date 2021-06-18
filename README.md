@@ -1,2 +1,8 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+RECIPE FOR COFFEE
+STEP 1 :taKe some milk
+STEP 2 :ADD SOME COFFEE
+STEP 3 :ADD SOME SUGAR
+STEP 4 :BOIL IT
+STEP 5 :SERVE IT HOT
+
+
